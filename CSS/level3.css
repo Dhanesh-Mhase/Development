@@ -1,0 +1,118 @@
+#div1{
+    height: 100px;
+    width: 100px;
+    background-color: pink;
+    border-width:3px ;
+    border-style:double;
+    border-color:blue;
+    /* border: 2px dotted black; */
+    border-radius: 0%;
+}
+
+h1{
+    height: 36.99px;
+    width: 200px;
+    background-color: aquamarine;
+    border-width:2px;
+    border-style: dashed;
+    border-color: black ;
+    text-align: center;
+
+}
+
+#div2{
+    height: 100px;
+    width: 100px;
+    background-color: beige;
+    border: 2px solid blue;
+    border-radius: 10px;
+}
+
+#div3{
+    text-align: center;
+    height: 100px;
+    width: 100px;
+    background-color: beige;
+    border: 2px solid blue;
+    border-radius: 50%;
+    padding-left: 25px;
+    padding-right: 25px;
+    padding-top: 25px;
+    padding-bottom: 25px;
+    margin-top: 10px;
+}
+
+#div4{
+    text-align: center;
+    height: 100px;
+    width: 100px;
+    background-color: beige;
+    border: 2px solid blue;
+    border-radius: 50%;
+    padding-left: 25px;
+    padding-right: 25px;
+    padding-top: 25px;
+    padding-bottom: 25px;
+    margin-top: 10px;
+}
+
+
+#ps31{
+    height: 100px;
+    width: 100px;
+    background-color: red;
+    margin-left: 10px;
+    border-radius: 50%;
+
+}
+
+#ps32{
+    height: 100px;
+    width: 100px;
+    background-color: yellow;
+    border-radius: 50%;
+    margin-left: 10px;
+    margin-top: 10px;
+
+}
+
+#ps33{
+    height: 100px;
+    width: 100px;
+    background-color: green;
+    border-radius: 50%;
+    margin-left: 10px;
+    margin-top: 10px;
+}
+
+#ps30{
+    padding-top: 20px;
+    height: 340px;
+    width: 120px;
+    background-color: black;
+}
+
+#navbar{
+    height: 60px;
+    background-color: #0f1111;
+}
+
+a{
+    color: white;
+    margin-right: 200px;
+}
+
+button{
+    background-color: #f08804;
+}
+
+#logo{
+    font-size: 25px;
+    color: #f08804;
+}
+
+
+#disp1{
+    background-color: pink;
+    display:inline;
+}

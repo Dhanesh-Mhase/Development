@@ -1,0 +1,40 @@
+#navbar{
+    height: 60px;
+    background-color: #0f1111;
+}
+
+a{
+    color: white;
+    margin-right: 200px;
+}
+
+button{
+    background-color: #f08804;
+}
+
+#logo{
+    font-size: 25px;
+    color: #f08804;
+}
+
+
+#disp1{
+    background-color: pink;
+    display:inline;
+}
+
+.contentBox{
+    height: 100px;
+    width: 100px;
+    border: 2px solid black;
+    display: inline-block;
+}
+
+#content{
+    height: 637px;
+
+}
+footer{
+    background-color: #0f1111;
+    color: white;
+}
