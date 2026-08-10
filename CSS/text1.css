@@ -1,0 +1,27 @@
+#p1{
+    text-align: left;
+}
+
+#p2{
+    text-align: right;
+}
+
+#head1{
+    text-align: center;
+}
+
+#head3{
+    text-decoration: underline dashed;
+}
+
+#head4{
+    text-decoration: overline dotted;
+}
+
+#head5{
+    text-decoration: line-through;
+}
+
+a{
+    text-decoration: none;
+}

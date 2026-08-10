@@ -1,0 +1,30 @@
+h1{
+    color: rgb(72, 171, 41);
+    background-color: rgb(189, 42, 17);
+}
+
+#head2{
+    color: #ff0;
+}
+
+a{
+   color: #ff0;
+}
+
+p{
+    color: rgb(123, 12, 100);
+}
+
+button{
+    color: rgb(201, 18, 30);
+    background-color: rgb(7, 108, 24);
+}
+
+/* full page bg color */
+body{
+    background-color: rgb(44, 16, 228);
+}
+
+.A{
+    color: chocolate;
+}
