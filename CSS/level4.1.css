@@ -6,3 +6,26 @@ div{
     display: inline-block;    
 }
 
+#box1{
+    position: static;
+}
+
+#box2{
+    position:relative;
+    top: 20px;
+    left: 20px;
+    z-index: 1;
+}
+
+/* for box3 body is ancestor */
+#box3{
+    position: absolute;
+    top: 10px;
+}
+
+#box4{
+    position:sticky;
+    top: 10px;
+    right: 10px;
+
+}

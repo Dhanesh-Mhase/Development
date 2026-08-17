@@ -1,0 +1,8 @@
+div{
+    position: fixed;
+    right: 10px;
+    height: 100px;
+    width: 100px;
+    background-image: url("cat.jpg");
+    background-size: cover;
+}
