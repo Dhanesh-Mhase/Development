@@ -1,0 +1,33 @@
+#one{
+    top: 100px;
+    left: 100px;
+    height: 200px;
+    width: 200px;
+    background-color: pink;
+    border: 2px dotted black;
+    transition-property: all;
+    transition-duration: 2s;
+    transition-timing-function: ease-in-out; 
+}
+
+#one:hover{
+    background-color: aquamarine;
+    font-size: 40px;
+    color: coral;
+    transform: translate(50px) rotate(90deg);
+    
+}
+
+
+#size{
+    height: 100px;
+    width: 100px;
+    background-color: aquamarine;
+    transition-duration: 2s;
+
+}
+
+#size:hover{
+    font-size: 90px;
+    transform:scale(2) skew(45deg);
+}
