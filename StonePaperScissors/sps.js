@@ -7,6 +7,7 @@ const compScorePara=document.querySelector("#comp-score");
 
 const choices=document.querySelectorAll(".choice");
 const msg=document.querySelector("#msg");
+                                                        
 
 const genCompChoice=()=>{
     //rock,paper,scissors
